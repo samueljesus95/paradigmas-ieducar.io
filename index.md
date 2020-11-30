@@ -1,36 +1,29 @@
-## Welcome to GitHub Pages
+## Welcome to Pages i-educar - Paradigmas e Ferramentas de Engenharia de Software
 
-Criamos esse GitPages para auxiliar os colaboradores da abertura de issue para [i-educar](https://github.com/portabilis/i-educar) da [Portabilis](https://ieducar.org/).
+GitPages criada para auxiliar aos usuários na abertura de issue para [i-educar](https://github.com/portabilis/i-educar) da [Portabilis](https://ieducar.org/).
 
+### Issues
 
-### Markdown
+Você pode criar issues para seguintes situações
+  **1.** _Italic_Sugestão de novas funcionalidades_Italic_
+  **2.** _Italic_Reportar bugs_Italic_
+  **3.** _Italic_Discussões técnicas_Italic_
+  
+**A adição de labels não está disponível para quem não é contribuidor no projeto, por isso, seja o mais claro possível e coloque todas as informações possíveis para que a equipe possa adequar seu chamado corretamente, e resolver da melhor maneira possível**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Contribuição
 
-```markdown
-Syntax highlighted code block
+Para contribuições você pode seguir esse [tutorial](https://github.com/portabilis/i-educar/blob/2.4/contributing.md). A Portabilis informa que as contribuições são super bem vindas! Nesse tutorial você encontra tudo que precisa para:
 
-# Header 1
-## Header 2
-### Header 3
+  **1.** _Italic_Reportando bugs_Italic_
+  **2.** _Italic_Indicando melhorias_Italic_
+  **3.** _Italic_Pedindo recursos_Italic_
+  **4.** _Italic_Discutindo as issues_Italic_
+  **5.** _Italic_Fazendo pull requests_Italic_
+  **6.** _Italic_Outras formas de contribuir_Italic_
 
-- Bulleted
-- List
+### Suporte
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ssamuel07/paradigmas-ieducar/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Para mais informações sobre o i-educar, acesse [i-educar](https://ieducar.org/).
+O software também tem [Telegram](https://t.me/ieducar).
+O fórum também é bem ativo e tem várias dúvidas que você pode ter e que já foram resolvidas lá, dá uma [olhada](https://forum.ieducar.org/).
